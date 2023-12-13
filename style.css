@@ -258,7 +258,7 @@ body {
   transform: translateY(0%);
 }
 
-footer p {
+/* footer p {
   position: absolute;
   font-size: 20px;
   display: block;
@@ -267,4 +267,4 @@ footer p {
   width: 100%;
   text-align: center;
   background: rgba(255, 255, 255, 0.3);
-}
+} */
